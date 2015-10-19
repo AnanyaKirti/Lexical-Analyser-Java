@@ -1,0 +1,11 @@
+ Different types of tokens expected are :
+
+	*Keywords
+	*Identifiers
+	*Strings
+	*Numbers
+		* need to check validity
+	*Operators (only the ones which were mentioned in the given file)
+	*Comments
+		/* comment */
+		// comment \n
